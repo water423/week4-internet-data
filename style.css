@@ -25,3 +25,7 @@ tbody tr:nth-child(even) {
 tbody tr:hover {
     background: #e3f1f4;
 }
+canvas {
+    max-height: 360px;
+    margin-bottom: 24px;
+}
